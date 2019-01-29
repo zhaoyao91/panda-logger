@@ -1,6 +1,6 @@
 {
   "name": "the-logger",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A js json logger.",
   "main": "index.js",
   "scripts": {
