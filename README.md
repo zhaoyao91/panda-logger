@@ -1,4 +1,4 @@
-# The Logger
+# Panda Logger
 
 A js json logger.
 
