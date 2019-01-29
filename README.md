@@ -11,13 +11,13 @@ A js json logger.
 ## Install
 
 ```
-npm i the-logger
+npm i panda-logger
 ```
 
 ## Basic Usage
 
 ```
-const { logger } = require('the-logger')
+const { logger } = require('panda-logger')
 
 logger.info('something')
 // {"level": 30, "message": "something"}
